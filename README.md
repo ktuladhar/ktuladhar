@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushal</h1>
 
 <div align="center">
-  <p><b>Agentic Engineer | AI Automation Specialist | Python Developer</b></p>
+  <p><b>Agentic Engineer | AI Automation Specialist | Risk Operations</b></p>
 </div>
 
 ---
