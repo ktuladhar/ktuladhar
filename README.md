@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushal</h1>
 
 <div align="center">
-  <p><b>Agentic Engineer | AI Automation Specialist | Risk Operations</b></p>
+  <p><b>Agentic Engineer | AI Automation Specialist</b></p>
 </div>
 
 ---
@@ -77,14 +77,6 @@ Upcoming projects will showcase:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ktuladhar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ktuladhar&layout=compact&theme=radical)
-
----
-
 ## 🌱 Current Journey
 
 - 🤖 Building foundational knowledge in AI agents and agentic systems
@@ -109,7 +101,6 @@ Upcoming projects will showcase:
 
 I'm always excited to discuss AI agents, automation, and agentic workflows. Feel free to reach out for collaboration, questions, or to explore innovative AI solutions!
 
-- 📧 **Email:** [kaushal.tuladhar@yahoo.com](mailto:kaushal.tuladhar@yahoo.com)
 - 🔗 **GitHub:** [@ktuladhar](https://github.com/ktuladhar)
 - 💼 **LinkedIn:** [Kaushal Tuladhar](https://www.linkedin.com/in/kaushal-tuladhar)
 
