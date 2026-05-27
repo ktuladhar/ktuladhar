@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaushal Dhar Tuladhar</h1>
+<h1 align="center">Hi 👋, I'm Kaushal</h1>
 
 <div align="center">
   <p><b>Agentic Engineer | AI Automation Specialist | Python Developer</b></p>
