@@ -11,7 +11,7 @@
 I'm an aspiring **Agentic Engineer** passionate about building intelligent AI agents and automation systems. I'm transitioning from traditional coding to architecting autonomous agent systems that can reason, collaborate, and orchestrate complex workflows. Currently mastering the intersection of AI, automation, and agentic engineering through hands-on projects and continuous learning.
 
 - 🤖 **Currently Learning:** AI Agents, Agentic Workflows, LLM-Driven Automation & Multi-Agent Systems
-- 📚 **Current Course:** [AI Coder: Vibe Coder to Agentic Engineer](https://edwarddonner.com/2026/02/17/ai-coder-vibe-coder-to-agentic-engineer/) by Edward Donner
+- 📚 **Current Course:** AI Coder: Vibe Coder to Agentic Engineer by Edward Donner
 - 💡 **Interests:** Autonomous Agents, Multi-Agent Orchestration, LLMs, Workflow Automation, AI-Powered Development
 - 🎯 **Goal:** Build scalable agentic systems that solve complex, real-world problems through intelligent automation
 
@@ -51,10 +51,6 @@ I'm an aspiring **Agentic Engineer** passionate about building intelligent AI ag
 
 ### Agentic Engineering Curriculum
 Mastering the shift from **Vibe Coding** to **Agentic Engineering**:
-
-- **Week 1:** Foundations in AI Concepts, Python for AI, Data Manipulation & Environment Setup
-- **Week 2:** Advanced AI, NLP, LLMs, Prompt Engineering, and AI Frameworks
-- **Week 3:** Agentic Patterns, Autonomous Agents, Multi-Agent Systems, Agent Orchestration & Deployment
 
 ### Key Skills in Development
 - 🤖 **Autonomous Agents:** Building self-directing AI systems
@@ -100,17 +96,9 @@ Upcoming projects will showcase:
 
 ---
 
-## 🎓 Education & Certifications
-
-- **Post Graduate Diploma in Management** - Business Analytics
-- Institute of Management Technology (IMT), Ghaziabad (2019-2021)
-- **In Progress:** AI Coder: Vibe Coder to Agentic Engineer Course
-
----
-
 ## 💼 Professional Background
 
-- Experience with major tech companies (PayPal, Amazon, Greenpeace India)
+- Experience with major tech companies (PayPal, Amazon)
 - Background in Risk Operations and Data Analysis
 - Full-stack development experience (Frontend & Backend)
 - Strong foundation in Data Science and Analytics
@@ -124,7 +112,6 @@ I'm always excited to discuss AI agents, automation, and agentic workflows. Feel
 - 📧 **Email:** [kaushal.tuladhar@yahoo.com](mailto:kaushal.tuladhar@yahoo.com)
 - 🔗 **GitHub:** [@ktuladhar](https://github.com/ktuladhar)
 - 💼 **LinkedIn:** [Kaushal Tuladhar](https://www.linkedin.com/in/kaushal-tuladhar)
-- 📚 **Learning:** [AI Coder Course](https://edwarddonner.com/2026/02/17/ai-coder-vibe-coder-to-agentic-engineer/)
 
 ---
 
