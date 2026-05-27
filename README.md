@@ -92,7 +92,6 @@ Upcoming projects will showcase:
 
 - Experience with major tech companies (PayPal, Amazon)
 - Background in Risk Operations and Data Analysis
-- Full-stack development experience (Frontend & Backend)
 - Strong foundation in Data Science and Analytics
 
 ---
