@@ -32,7 +32,7 @@ Agentic Engineer passionate about building intelligent AI agents and automation 
 
 ## Featured Projects
 
-🏆 **[Guvi Final Project](https://github.com/ktuladhar/Guvi-Final-Project)** - Data science analytics project with Python, Pandas, Scikit-learn
+🏆 **[toxic-tweets-classifier](https://github.com/ktuladhar/toxic-tweets-classifier)** - Data science analytics project with Python, Pandas, Scikit-learn
 
 ---
 
