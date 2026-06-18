@@ -36,7 +36,9 @@ Agentic Engineer passionate about building intelligent AI agents and automation 
 
 🏆 **[jira-clone](https://github.com/ktuladhar/jira-clone)** - Full-featured Jira-style kanban app with React, Node.js, PostgreSQL, drag-and-drop boards, and calendar filtering
 
-🏆 **[flap-fever](https://github.com/ktuladhar/flap-fever)** - 3D Flappy Bird-style arcade game in the browser with Three.js and WebGL — play free, no install
+🏆 **[prelegal](https://github.com/ktuladhar/prelegal)** - A platform for drafting common legal agreements
+
+🏆 **[flap-fever](https://github.com/ktuladhar/flap-fever)** - 3D Flappy Bird-style arcade game in the browser with Three.js and WebGL - play free, no install
 
 ---
 
