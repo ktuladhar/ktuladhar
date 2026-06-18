@@ -26,7 +26,7 @@ Agentic Engineer passionate about building intelligent AI agents and automation 
 
 **Frontend:** React.js, TypeScript, Redux
 
-**Tools:** Git, VS Code, Cursor, Jupyter Notebook
+**Tools:** Git, VS Code, Cursor, Jupyter Notebook, Claude, Gemini, ChatGPT
 
 ---
 
