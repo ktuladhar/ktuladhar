@@ -43,7 +43,7 @@ Agentic Engineer passionate about building intelligent AI agents and automation 
 ## Connect With Me
 
 - 🔗 **GitHub:** [@ktuladhar](https://github.com/ktuladhar)
-- 💼 **LinkedIn:** [Kaushal Tuladhar](https://www.linkedin.com/in/kaushal-tuladhar)
+- 💼 **LinkedIn:** [Kaushal Dhar Tuladhar](https://www.linkedin.com/in/kaushal-tuladhar)
 
 <div align="center">
   <p>🤖 Building the future with intelligent agents and AI automation</p>
